@@ -13,7 +13,7 @@
 
 
 ## 说明文档
-项目开发、部署等说明都在[wiki](https://github.com/daxiongYang/renren-fast-vue/wiki)中。
+项目开发、部署等说明都在[wiki](https://github.com/daxiongYang/renren-fast-vue/wiki)中。11
 
 
 ## 更新日志
