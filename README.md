@@ -18,3 +18,4 @@
 
 ## 更新日志
 每个版本的详细更改都记录在[release notes](https://github.com/daxiongYang/renren-fast-vue/releases)中。# newpro
+---
