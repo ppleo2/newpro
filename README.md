@@ -1,5 +1,5 @@
 ## NGC2244
-![demo-screenshot_01](https://github.com/ppleo2/newpro/tree/master/demo-screenshot/NGC2244.png)
+![demo-screenshot_01](https://github.com/ppleo2/newpro/tree/master/demo-screenshot/NGC2244.jpg)
 
 ## renren-fast-vue
 - renren-fast-vue基于vue、element-ui构建开发，实现[renren-fast](https://gitee.com/renrenio/renren-fast)后台管理前端功能，提供一套更优的前端解决方案
